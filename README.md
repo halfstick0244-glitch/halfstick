@@ -2,26 +2,25 @@
 
 I'm currently studying Statistics and Data Science.
 
-## About me
+## Research Interests
 
-- Interested in machine learning, optimization, statistical modeling, and data analysis
-- Working on SVM optimization, robust optimization, and diffusion-based optimization methods
-- Mainly use Python, R, LaTeX, and GitHub for research and coursework
+- Support Vector Machines
+- Optimization Algorithms
+- Robust Optimization
+- Machine Learning
+- Statistical Modeling
 
-## Research / Projects
+## Selected Projects
 
-- SVM Optimization Notes
-- GGDOpt Reproduction and Analysis
-- Danmaku Data Analysis
-- Statistical Survey and Data Mining Projects
+### SVM Optimization Notes
+A structured note/book project about SVM formulations, optimization methods, kernel approximation, and large-scale algorithms.
+
+### GGDOpt Reproduction and Analysis
+Reproduction and analysis of guided generative optimization methods for chance-constrained and robust optimization problems.
+
+### Danmaku Data Analysis
+Analysis of live-stream danmaku, Super Chat, and gift data using visualization, word cloud, and text mining methods.
 
 ## Skills
 
-- Programming: Python, R, LaTeX, Git
-- Machine Learning: SVM, Random Forest, Neural Networks, Clustering
-- Statistics: Regression, Bootstrap, Survival Analysis, Monte Carlo Methods
-- Tools: Jupyter, RStudio, Overleaf, GitHub
-
-## Contact
-
-- Email: 1326302859@qq.com
+Python · R · LaTeX · Git · Machine Learning · Statistical Analysis · Optimization
